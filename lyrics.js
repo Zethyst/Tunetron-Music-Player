@@ -46,54 +46,223 @@ You're the sunflower, I think your love would be too much
 Or you'll be left in the dust, unless I stuck by ya
 You're the sunflower, you're the sunflower (Yeah)`,
 
-`You, you would always see the signs
-The echoes in my head they rhyme
-I feel we never went at all
-Tomorrow is another day
-I don't know when I'll feel anymore
-Feeling all these things before
-And all that I would do
-You, you would always see the signs
-The echoes in my head they rhyme
-I felt they never went home at all
-Tomorrow is another day that we need
-I don't know where I'll be searching for these things I've seen
-And I'm a feelin' all these things before I go through
-All that I would do I do for you, no
-(Ooh-ooh, ooh-ooh, ooh-ooh, ooh-ooh)
+`
+[Chorus: Roisee & Young Thug]
+Not done fighting, I don't feel I've lost
+Am I dreamin'? Is there more like us?
+Got me feeling like it's all too much
+I feel beaten, but I can't give up
+I'm still fighting (Metro), I don't feel I've lost
+Am I dreamin'? Is there more like us?
+Got me feelin' like it's all too much
+I feel beaten, but I can't give up
 
-[Bridge]
-'Round about a quarter past
-We rustle up all inside
-Of everyone and everything
-That didn't owe us too well
-And in our hearts
-The matter is they know the reason too well
-I heard the rain, when will it come?
-When we (Oh-oh-oh)
+[Verse 1: A$AP Rocky]
+Uh (No way), wakin' up, feelin' like the thankful one
+Count up my 1s, lacin' up my favorite ones
+One of a kind, one of one, the only one
+Got one shot and one chance to take it once (No way)
+Kiss my mama on the forehead, 'fore I get the code red
+'Cause I was born, bred to go in, toast read
+And swing by 410, beef patty, cornbread
+In the concrete jungle, where my home is (No way)
+All get focused, all range of toast is
+For nickname, Mr. King-of-do-the-mostest
+I was livin' down bad in my folks' crib
+Now I'm laughin' to the bank and the joke is (No way)
+Did more things than folks did or folks get
+We've been gettin' this fly since some poor kids
+My rich friends and my broke friends coexist
+They love to mix 'em, we know what it is
 
-[Verse 2]
-And I'd better get in control of this heavy vehicle
-Or else I'll go and then I'll go and explode
-To the place that I adore
-Seen places on the shore
-Where've you've been and where no sun is a sin
-Been packin' all night long to get ready for some fun
-And you go and you go evermore
-I hate feeling in control
-I want someone else's role
-But I'm here and I'll do anythin'
-Together this is a heart attack
-I'm gonna get off in a sec
-But for now I'm havin' way too much fun
-To the place that I adore
-Seen places on the shore
-Where did you go and where did you go everyone?
-Been packin' all night long to get ready for some fun
-And you go and you go evermore
-I hate feeling in control
-I want someone else's role
-But I'm here and I'll do anythin'`,
+[Chorus: Roisee]
+Not done fighting (No way), I don't feel I've lost
+Am I dreamin'? Is there more like us?
+Got me feeling (No way), like it's all too much
+I feel beaten, but I can't give up
+I'm still fighting (No way), I don't feel I've lost
+Am I dreamin'? Is there more like us?
+Got me feeling (No way), like it's all too much
+I feel beaten (No way), but I can't give up
+
+[Verse 2: Roisee]
+I can't find it in myself to just walk away
+I can't find it in myself to lose everything
+Feel everyone's against me, don't want me to be great
+Things might look bad, not afraid to look death in the face
+I'm good now (Now, now, no way), who's really bad?
+I choose me now (Now, now), what's wrong with that?
+Wish you could see me (No way)
+Now, now, mmm, who had my back, baby?
+Ain't belong, no love lost, good always will win
+
+[Chorus: Roisee]
+Not done fighting (Fighting, no way), I don't feel I've lost (Feel I've lost)
+Am I dreamin'? (Dreaming) Is there more like us? (More like us)
+Got me feeling (Feeling, no way), like it's all too much
+I feel beaten (Beaten), but I can't give up (Can't give up)
+I'm still fighting (No way), I don't feel I've lost
+Am I dreamin'? Is there more like us?
+Got me feeling (No way), like it's all too much
+I feel beaten (No way), but I can't give up
+
+[Outro: Roisee]
+Can't give up
+Can't give, can't give up
+Can't give up
+Can't give, can't give up
+Can't give up
+Can't give, can't give up
+Can't give up
+`,
+`
+Ye raaten ye mausam nadi
+
+Ka kinaara ye chanchal hawa
+
+Ye raaten ye mausam nadi
+
+Ka kinaara ye chanchal hawa
+
+Kaha do dilon ne ki mil kar
+
+Kabhi na honge kabhi ham juda
+
+Ye raaten ye mausam nadi ka
+
+Kinaara ye chanchal hawa
+
+
+Ye kya baat hai aaj
+
+Ki chaandani mein
+
+Ye kya baat hai aaj ki
+
+Chaandani mein
+
+Ke ham kho gaye
+
+Pyaar ki raagini mein
+
+
+Ye baahon mein baahen
+
+Ye bahaki nigaahen
+
+Lo aane laga zindagi ka maza
+
+Ye raaten ye mausam nadi
+
+Ka kinaara ye chanchal hawa
+
+
+Sitaaron ki mahafil
+
+Ne kar ke ishaara
+
+Sitaaron ki mahafil
+
+Ne kar ke ishaara
+
+Kaha ab to saara
+
+Jahaan hai tumhaara
+
+Muhabbat javaan ho
+
+Khula aasamaan ho
+
+Kare koi dil aarazu aur ky
+
+Ye raaten ye mausam nadi
+
+Ka kinaara ye chanchal hawa
+
+
+Kasam hai tumhe tum
+
+Agar mujhase ruthe
+
+Kasam hai tumhe tum
+
+Agar mujhase ruthe
+
+Rahe saans jab tak
+
+Ye bandhan na toote
+
+Tumhen dil diya hai
+
+Ye vaada kiya hai sanam main
+
+Tumhaari rahungi sada
+
+Ye raaten ye mausam nadi ka
+
+Kinaara ye chanchal hawa
+
+
+Kaha do dilon ne ki mil kar
+
+Kabhi ham nahonge juda
+
+Ye raaten ye mausam nadi
+
+Ka kinaara ye chanchal hawa
+`,
+`
+Kaisi Teri Khudgarzi
+Na Dhoop Chune Na Chhaon
+Kaisi Teri Khudgarzi
+Kisi Thor Tike Na Paon
+
+Kaisi Teri Khudgarzi
+Na Dhoop Chune Na Chhaon
+Kaisi Teri Khudgarzi
+Kisi Thor Tike Na Paon
+
+Bann Gaya Apna Paigambar
+Tar Liya Tu Saat Samundar
+Phir Bhi Sookha Mann Ke Andar
+Kyun Reh Gaya
+
+Re Kabira Maan Ja
+Re Fakira Maan Ja
+Aaja Tujhko Pukaare
+Teri Parchhaiyan
+
+Re Kabira Maan Ja
+Re Fakira Maan Ja
+Kaisa Tu Hai Nirmohi
+Kaisa Harjaiyan
+
+Tooti Charpai Wohi
+Thandi Purvai Rasta Dekhe
+Dudhon Ki Malai Wohi
+Mitti Ki Surahi Rasta Dekhe
+
+Kaisi Teri Khudgarzi
+Lab Namak Rame Na Misri
+Kaisi Teri Khudgarzi
+Tujhe Preet Puraani Bisri
+
+Mast Maula Mast Kalander
+Tu Hawa Ka Ek Bawandar
+Bujh Ke Yoon Andar Hi Andar
+Kyun Reh Gaya
+
+Re Kabira Maan Ja
+Re Fakira Maan Ja
+Aaja Tujhko Pukaare
+Teri Parchhaiyan
+
+Re Kabira Maan Ja
+Re Fakira Maan Ja
+Kaisa Tu Hai Nirmohi
+Kaisa Harjaiyan
+
+`,
 
 `[Intro]
 Only you know me
