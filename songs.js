@@ -12,17 +12,18 @@ let songlist=[
         img:"cover2"
     },
     {
-        name:"Yeh Raaten Yeh Mausam",
-        artist:"Sanam, Simran Sehgal",
+        name:"FallingForYou",
+        artist:"The 1975",
         src:"song3",
         img:"cover3"
     },
     {
-        name:"Kabira",
-        artist:"Pritam",
+        name:"Always",
+        artist:"Yoon Mirae",
         src:"song4",
         img:"cover4"
     },
+
     {
         name:"There you are",
         artist:"Zayn Malik",
@@ -70,5 +71,29 @@ let songlist=[
         artist:"The Chainsmokers",
         src:"song12",
         img:"cover12"
+    },
+    {
+        name:"Yeh Raaten Yeh Mausam",
+        artist:"Sanam, Simran Sehgal",
+        src:"song13",
+        img:"cover13"
+    },
+    {
+        name:"Kabira",
+        artist:"Pritam",
+        src:"song14",
+        img:"cover14"
+    },
+    {
+        name:"Tokyo Drift",
+        artist:"Teriyaki Boyz",
+        src:"song15",
+        img:"cover15"
+    },
+    {
+        name:"We Own It",
+        artist:"2 Chainz, Wiz Khalifa",
+        src:"song16",
+        img:"cover16"
     },
 ]

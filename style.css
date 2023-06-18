@@ -738,12 +738,14 @@ pre {
 .music_library ul li:last-child {
   border-bottom: 0px;
 }
-.music_library ul li .oneSongContainer {
+/* .music_library ul li .oneSongContainer {
   padding-left: 5px;
-}
+} */
 
 .music_library ul li .oneSongContainer span {
+  display: block;
   font-size: 1.8rem;
+  width: 130px;
 }
 
 .music_library ul li .oneSongContainer p {
@@ -864,7 +866,32 @@ svg {
   cursor: pointer;
 }
 
-@media screen and (max-width: 550px) {
+.wiggleAnimation{
+  animation: wiggle 2s linear infinite;
+}
+
+@keyframes wiggle {
+  0%, 7% {
+    transform: rotateZ(0);
+  }
+  15% {
+    transform: rotateZ(-15deg);
+  }
+  20% {
+    transform: rotateZ(10deg);
+  }
+  25% {
+    transform: rotateZ(-10deg);
+  }
+  30% {
+    transform: rotateZ(6deg);
+  }
+  35% {
+    transform: rotateZ(-4deg);
+  }
+  40%, 100% {
+    transform: rotateZ(0);
+  }
 }
 @media screen and (max-width: 400px) {
   html,

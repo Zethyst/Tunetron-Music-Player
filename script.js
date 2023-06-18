@@ -26,6 +26,7 @@ var w = window.innerWidth;
 if (w < 550) {
     libraryBtn.textContent = "library_music";
     musicList.classList.add("hidden");
+    libraryBtn.classList.add("wiggleAnimation");
     mobileMode=true;
 }
 
@@ -34,9 +35,11 @@ window.addEventListener("resize", () => {
 
     if (w < 550) {
         libraryBtn.textContent = "library_music";
+        libraryBtn.classList.add("wiggleAnimation");
     }
     else if (w > 550) {
         libraryBtn.textContent = "audiotrack";
+        libraryBtn.classList.remove("wiggleAnimation");
     }
 });
 if (libraryBtn.textContent=="library_music") {
