@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#243b55">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" 
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="/favicon.ico">
+    <!-- <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"> -->
+    <title>Tunetron</title>
+</head>
+<body>
+    <audio id="Blank-Sound">
+        <source src="/Assets/Blank_Sound.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    <div class="container">
+        <div class="hidden" id="hidding_lyrics">
+        <div id="lyrics_container">
+                <div class="header">
+                    <span>Lyrics</span>
+                </div>
+                <!-- <i class="material-icons" id="showplayerBtn">arrow_drop_down</i> -->
+        </div>
+    </div>
+        <div class="music_player">
+            <div class="header">
+                <i class="material-icons">audiotrack</i>
+                <span>Now Playing</span>            
+                <lottie-player id="equalizer" background="transparent"  speed="1"  style="width: 35px; height: 35px;" loop autoplay></lottie-player>
+            </div>
+            <div class="imgBox">
+                <img src="/Assets/Images/cover1.jpg" alt="Album Cover" draggable="false">
+            </div>
+            <div class="songDetails">
+                <p class="title">Song Name</p>
+                <p class="artist">Artist Name</p>
+            </div>
+            <div class="progressBox" title="Seek">
+                <div class="seek_line"></div>
+                <div class="duration_wrapper">
+                    <span class="current">0:00</span>
+                    <span class="duration">0:00</span>
+                </div>
+                <audio src="/Assets/Songs/song1.m4a" id="Song">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+            <div class="player_controls">
+                <i id="repeat-playlist" class="material-icons" title="Playlist Looped">repeat</i>
+                <div class="prev_next" title="Previous Track"><i id="prev" class="material-icons">skip_previous</i></div>
+                <div class="play-pause" title="Play"><i class="material-icons">play_arrow</i></div>
+                <div class="prev_next" title="Next Track"><i id="next" class="material-icons" >skip_next</i></div>
+                <i id="vol" class="material-icons" title="Mute">volume_up</i>
+            </div>
+            <div class="lyrics_box">
+                <div id="lyricBtn"> 
+                <i class="material-icons">expand_less</i>
+                <span>Lyrics</span>
+            </div>
+            </div>
+        </div>
+
+        <div class="music_library">
+            <div class="hiddingBanner">
+            <div class="header slider">
+                <div class="slides">
+                    <div class="followingBox">
+                        <div class="followingImgBox">
+                        <input type="radio" name="radio-btn" id="radio1" checked="true">
+                        <input type="radio" name="radio-btn" id="radio2">
+                        <div class="slide first">
+                        <img src="/Assets/Images/singer2.jpg" alt="Banner 1">
+                        <div id="following">
+                            <span>Linkin Park</span>
+                            <p>34,293,136 listeners</p>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <img src="/Assets/Images/singer1.jpg" height="121px" alt="Banner 2">
+                        <div id="following">
+                            <span>Zayn Malik</span>
+                            <p>22,484,557 listeners</p>
+                        </div>
+                    </div>
+                    <div class="navigation-auto">
+                        <div class="auto-btn1"></div>
+                        <div class="auto-btn2"></div>
+                    </div>
+                    </div>
+
+                    <button id="followBtn">Follow</button>
+                </div>
+            </div>
+            <div class="navigation-manual">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+            </div>
+            </div>
+        </div>
+            <div class="hiddingAlbums">
+            <div id="AlbumTitle">
+            <i class="material-icons">album</i>
+            <span>Albums</span>
+            <p>See all</p>
+            </div>
+            <div class="allAlbums">
+                <!-- <div class="albums">
+                    <div class="albumImg">
+                        <img src="/Assets/Images/cover4.jpg" alt="Album Cover 1">
+                    </div>
+                        <div class="albumBtn">
+                            <div id="albumBtnTitle">
+                            <span>Song Name</span>
+                            <p>Artist Name</p>
+                        </div>
+                            <i class="material-icons">play_arrow</i>
+                        </div>
+                </div> -->
+            </div>
+        </div>
+            <div class="hiddingTracks">
+            <div class="allTracks">
+            <i class="material-icons">queue_music</i>
+            <span>Music List</span>
+            <p>See all</p>
+        </div>
+            <ul>
+                <!-- <li>
+                    <div class="smallimgBox">
+                        <img src="/Assets/Images/cover1.jpg" alt="Album Cover" draggable="false">
+                    </div>
+                    <div class="oneSongContainer">
+                        <span>Song Name</span>
+                        <p>Artist</p>
+                    </div>
+                    <span class="audio-duration">00:00</span>
+                </li> -->
+            </ul>
+        </div>
+        <div class="small-music-player">
+                    <div class="smallimgBox">
+                        <img src="/Assets/Images/cover1.jpg" alt="Album Cover" draggable="false">
+                    </div>
+                    <div class="oneSongContainer">
+                        <span>Song Name</span>
+                        <p>Artist</p>
+                    </div>
+                    <div class="skill prev_next">
+                        <div class="outer" id="small-play-pause">
+                            <div class="inner">
+                                <i class="material-icons">play_arrow</i>
+                            </div>
+                        </div>
+                        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="50px" height="50px">
+                            <defs>
+                               <linearGradient id="GradientColor">
+                                  <stop offset="0%" stop-color="#e91e63" />
+                                  <stop offset="100%" stop-color="#673ab7" />
+                               </linearGradient>
+                            </defs>
+                            <circle cx="25" cy="25" r="20" stroke-linecap="round" />
+                    </svg>
+                    </div>
+
+        </div>
+    </div>
+    </div>
+
+        <!-- lottie anim js -->
+        <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+     <!-- custom js -->
+     <script src="lyrics.js"></script>
+    <script src="songs.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
