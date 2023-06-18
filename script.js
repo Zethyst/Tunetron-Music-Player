@@ -38,11 +38,9 @@ window.addEventListener("resize", () => {
     }
     else if (w < 550) {
         libraryBtn.textContent = "library_music";
-        musicList.classList.add("hidden");
     }
     else if (w > 550) {
         libraryBtn.textContent = "audiotrack";
-        musicList.classList.remove("hidden");
     }
 });
 if (libraryBtn.textContent=="library_music") {
@@ -54,10 +52,6 @@ if (libraryBtn.textContent=="library_music") {
         musicPlayer.classList.toggle("hidden");
         musicList.classList.toggle("hidden");
     });
-}
-else{
-    // libraryBtn.removeEventListener("click");
-    // smallMusicPlayerContainer.removeEventListener("click");
 }
 
 function playBlank() {
