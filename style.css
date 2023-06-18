@@ -894,7 +894,7 @@ svg {
     transform: translate(0px, 140px);
   }
   #lyrics-display {
-    max-height: 70rem;
+    max-height: 60rem;
   }
   .music_player .songDetails {
     transform: translate(0px, 80px);

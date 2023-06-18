@@ -31,13 +31,8 @@ if (w < 550) {
 
 window.addEventListener("resize", () => {
     w = window.innerWidth;
-    if (w < 325) {
 
-    }
-    else if (w < 380) {
-
-    }
-    else if (w < 550) {
+    if (w < 550) {
         libraryBtn.textContent = "library_music";
     }
     else if (w > 550) {
@@ -108,6 +103,8 @@ svgBtn.addEventListener("click", () => {
     const isMusicPaused = musicPlayer.classList.contains('paused');
     isMusicPaused ? pauseMusic() : playMusic();
     playingNow();
+    musicPlayer.classList.toggle("hidden");
+    musicList.classList.toggle("hidden");
 });
 
 // pause music function
