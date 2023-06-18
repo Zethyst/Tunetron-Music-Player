@@ -326,8 +326,8 @@ h2 {
   transition: 0.2s ease-out;
 }
 .player_controls .play-pause {
-  height: 4.5rem;
-  width: 4.5rem;
+  height: 5.5rem;
+  width: 5.5rem;
   background: linear-gradient(
     29deg,
     rgba(169, 45, 226, 1) 22%,
