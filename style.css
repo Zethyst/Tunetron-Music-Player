@@ -894,7 +894,7 @@ svg {
     transform: translate(0px, 140px);
   }
   #lyrics-display {
-    max-height: 75rem;
+    max-height: 70rem;
   }
   .music_player .songDetails {
     transform: translate(0px, 80px);
@@ -926,7 +926,7 @@ svg {
     transform: translate(-45px, -40px);
   }
   .music_library .header {
-    margin: 1rem 0;
+    margin-bottom:1rem;
   }
   .allAlbums{
     margin: 1rem 0;
@@ -936,7 +936,7 @@ svg {
     height: 115px;
   }
   .music_library ul{
-    max-height: 25rem;
+    max-height: 22rem;
   }
   .small-music-player .prev_next {
     margin-left: 65px;

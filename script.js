@@ -473,7 +473,7 @@ AlbumSeeAll.addEventListener("click", () => {
     if (hiddingTracks.classList.contains("hidden")) {
         Albums.style.height = "370px";
         if (mobileMode==true) {
-            Albums.style.height = "540px";
+            Albums.style.height = "520px";
         }
         Albums.style.overflowY = "scroll";
         AlbumSeeAll.textContent = "See less";
@@ -499,14 +499,14 @@ TracksSeeAll.addEventListener("click", () => {
     if (hiddingAlbums.classList.contains("hidden")) {
         ul_library.style.maxHeight = "37.3rem";
         if (mobileMode==true) {
-            ul_library.style.maxHeight = "55.3rem";
+            ul_library.style.maxHeight = "53.3rem";
         }
         TracksSeeAll.textContent = "See less";
     }
     else {
         ul_library.style.maxHeight = "10rem";
         if (mobileMode==true) {
-            ul_library.style.maxHeight = "25rem";
+            ul_library.style.maxHeight = "22rem";
         }
         ul_library.scroll(0, 0);
         TracksSeeAll.textContent = "See all";
