@@ -945,9 +945,27 @@ svg {
     transform: translate(0px, 10px);
   }
 }
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 360px) {
   .music_player {
     width: 32rem;
+  }
+  .imgBox img {
+    transform: translate(0px, 20px);
+  }
+  .lyrics_box {
+    transform: translate(0px, 60px);
+  }
+  #lyrics-display {
+    max-height: 40rem;
+  }
+  .music_player .songDetails {
+    transform: translate(0px, 30px);
+  }
+  .progressBox {
+    transform: translate(0px, 40px);
+  }
+  .player_controls {
+    transform: translate(0px, 50px);
   }
   #lyrics_container {
     width: 29rem;
@@ -1021,7 +1039,7 @@ svg {
     margin-bottom:1rem;
   }
   .allAlbums{
-    margin: 0;
+    margin: 1rem 0;
     height: 100px;
   }
   .albums{
