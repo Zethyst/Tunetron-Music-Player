@@ -23,13 +23,19 @@ let songlist=[
         src:"song4",
         img:"cover4"
     },
-
     {
-        name:"There you are",
-        artist:"Zayn Malik",
+        name:"Dil Mere",
+        artist:"The Local Train",
         src:"song5",
         img:"cover5"
     },
+
+    // {
+    //     name:"There you are",
+    //     artist:"Zayn Malik",
+    //     src:"song5",
+    //     img:"cover5"
+    // },
     {
         name:"Midnight",
         artist:"Coldplay",
@@ -49,8 +55,8 @@ let songlist=[
         img:"cover8"
     },
     {
-        name:"See You Again",
-        artist:"Wiz Khalifa & Charlie Puth",
+        name:"Someone",
+        artist:"TSS",
         src:"song9",
         img:"cover9"
     },
@@ -95,5 +101,47 @@ let songlist=[
         artist:"2 Chainz, Wiz Khalifa",
         src:"song16",
         img:"cover16"
+    },
+    {
+        name:"See You Again",
+        artist:"Wiz Khalifa & Charlie Puth",
+        src:"song17",
+        img:"cover17"
+    },
+    {
+        name:"I Found",
+        artist:"Amber Run",
+        src:"song18",
+        img:"cover18"
+    },
+    {
+        name:"There You Are",
+        artist:"Zayn Malik",
+        src:"song19",
+        img:"cover19"
+    },
+    {
+        name:"I Wanna Be Yours",
+        artist:"Arctic Monkeys",
+        src:"song20",
+        img:"cover20"
+    },
+    {
+        name:"Softcore",
+        artist:"The Neighbourhood",
+        src:"song21",
+        img:"cover21"
+    },
+    {
+        name:"After Dark",
+        artist:"Mr.Kitty",
+        src:"song22",
+        img:"cover22"
+    },
+    {
+        name:"Nightcall",
+        artist:"Kavinsky",
+        src:"song23",
+        img:"cover23"
     },
 ]

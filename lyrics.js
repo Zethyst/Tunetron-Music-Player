@@ -196,91 +196,38 @@ Whenever, wherever you are
 Whenever, wherever you are
 `,
 
-`[Intro]
-Only you know me
-The way you know me
-Only you forgive me
-When I'm sorry
+`Dil mere tu hai ek banjaara
+Maane na tu kyun firta awaara
+Dil mere tu hai ek nakaara
+Maane na tu kyun kismat ka maara
 
-[Verse 1]
-Need you when I'm broken
-When I'm fixed
-Need you when I'm well
-And when I'm sick
-Friends that I rely on
-Don't come through
-They run like the river
-But not you
+Dil mere tu hai ek banjaara
+Maane na tu kyun firta awaara
 
-[Pre-Chorus]
-Can't see when I'm falling
-Losing myself
-But then I hear you calling
+Kya haasil iss jahaan mein khudko jaane na tu dil
+Kya sach aur kya fasaane
+Haal-e-dil mushkil khudko samjhaana
+Jaane na tu kyun banke anjaana
 
-[Chorus]
-There you are
-There you are
-You're there with open arms
-There you are
-There you are
-And I run
+[Instrumental-break]
 
-[Verse 2]
-Whispers in the background
-Behind closed doors
-I got myself in a mess and without you, I'm in more
-Oh, I'm a little drunk now
-That's why I went to war
-Oh yeah, you are my sober
-When I'm on the floor
+Dil mere tu hai ek nakaara
+Maane na tu kyun kismat ka maara
 
-[Pre-Chorus]
-Can't see when I'm falling
-Losing myself
-But then I hear you calling
+Nakaabil nadaan dhoonde jinke darmyaan
+Soone din raste un bazaaron mein
+Dil ke firta awaara
+Jhootha dil jhootha hai ye jag saara
 
-[Chorus]
-There you are
-There you are
-You're there with open arms
-There you are
-There you are
-And I run
-
-[Post-Chorus]
-Only you know me the way you know me
-Only you forgive me when I'm sorry
-Even when I messed it up
-There you are
-
-[Bridge]
-Need you when I'm hot and when I'm cold
-Need you when I'm young
-When I'm old
-You won't be far
-
-[Chorus]
-There you are
-There you are
-You're there with open arms
-There you are
-There you are
-And I run
-
-[Post-Chorus]
-Only you know me the way you know me
-Only you forgive me when I'm sorry
-Even when I messed it up
-There you are
+Hai badnaam ab pal wo mere
+Guzre the jo kal mein tere
+Kirdaaron mein uljha-uljha jag saara
+Gardish mein chamke wo toota taara
 
 [Outro]
-(Need you when I'm, need you when I'm
-Need you when I'm, need you when I'm)
-When you're caught in the crowds
-When you're up in the clouds
-When you're caught in the crowds
-When you're up in the clouds
-There you are`,
+Dil mere
+Bazaaron mein`,
+
 
 `[Verse 1]
 In the darkness before the dawn
@@ -413,81 +360,52 @@ Hardly anything else I need to be
 Hardly anything there for you to see
 For you to see, for you to see`,
 
-`[Chorus: Charlie Puth]
-It's been a long day
-Without you, my friend
-And I'll tell you all about it when I see you again
-We've come a long way
-From where we began
-Oh, I'll tell you all about it when I see you again
-When I see you again
+`[Verse 1]
+It's raining, on a Sunday night
+The room is cold but I'm sitting, on the ground
+And there is no sound, on a Sunday night
+A sob, a sigh under the, city lights
+I'm going crazy, on a Sunday night
+Shadows are laughing at me an-other time
 
-[Verse 1: Wiz Khalifa]
-Damn, who knew?
-All the planes we flew, good things we been through
-That I'd be standin' right here talkin' to you
-'Bout another path, I know we loved to hit the road and laugh
-But somethin' told me that it wouldn't last
-Had to switch up, look at things different, see the bigger picture
-Those were the days, hard work forever pays
-Now I see you in a better place (See you in a better place)
-Uh
+[Chorus]
+I won't just let it drag me down
+Even if you don't help me out
+I tried my best to, do without
+All the things we've talked about
 
-[Refrain: Wiz Khalifa]
-How can we not talk about family when family's all that we got?
-Everything I went through, you were standin' there by my side
-And now you gon' be with me for the last ride
+I won't just let it drag me down
+Even if you don't help me out
+I tried my best to, do without
+All the things we've talked about
 
-[Chorus: Charlie Puth, Wiz Khalifa]
-It's been a long day
-Without you, my friend
-And I'll tell you all about it when I see you again (I'll see you again)
-We've come a long way (Yeah, we came a long way)
-From where we began (You know where we started)
-Oh, I'll tell you all about it when I see you again (Let me tell you)
-When I see you again
+[Verse 2]
+The Sun is fading, on a Sunday night
+The sound of the sirens clouding, every thought
+And there is your song, on a Sunday night
+The one you used to sing when, we were alright
 
-[Post-Chorus: Charlie Puth, Wiz Khalifa]
-Oh, oh
-Ooh (Yeah)
+[Chorus]
+I won't just let it drag me down
+Even if you don't help me out
+I tried my best to, do without
+All the things we've talked about
 
-[Verse 2: Wiz Khalifa]
-First, you both go out your way and the vibe is feelin' strong
-And what's small turned to a friendship, a friendship turned to a bond
-And that bond'll never be broken, the love will never get lost
-(The love will never get lost)
-And when brotherhood come first, then the line'll never be crossed
-Established it on our own when that line had to be drawn
-And that line is what we reached, so remember me when I'm gone
-(Remember me when I'm gone)
+I won't just let it drag me down
+Even if you don't help me out
+I tried my best to, do without
+All the things we've talked about
 
-[Refrain: Wiz Khalifa]
-How can we not talk about family when family's all that we got?
-Everything I went through, you were standin' there by my side
-And now you gon' be with me for the last ride
+I won't just let it drag me down
+Even if you don't help me out
+I tried my best to, do without
+All the things we've talked about
 
-[Bridge: Charlie Puth]
-So let the light guide your way, yeah
-Hold every memory as you go
-And every road you take
-Will always lead you home, home
+I won't just let it drag me down
+Even if you don't help me out
+I tried my best to, do without
+All the things we've talked about`,
 
-[Chorus: Charlie Puth]
-It's been a long day
-Without you, my friend
-And I'll tell you all about it when I see you again
-We've come a long way
-From where we began
-Oh, I'll tell you all about it when I see you again
-When I see you again
-
-[Post-Chorus: Charlie Puth, Wiz Khalifa]
-Oh (Uh), oh (Yeah-yeah; Yeah)
-Ooh (Yo, yo, uh)
-When I see you again (See you again, yeah, yeah)
-Oh (Yeah), oh (Yeah, yeah; oh-oh)
-Ooh (Uh-huh, yup)
-When I see you again`,
 
 `[Verse 1]
 I just think about you
@@ -1026,5 +944,258 @@ This moment, we own it
 I ride or die for mine
 I'm ride or die material
 One life to live, so here we go
-This moment, we own it`
+This moment, we own it`,
+
+`[Chorus: Charlie Puth]
+It's been a long day
+Without you, my friend
+And I'll tell you all about it when I see you again
+We've come a long way
+From where we began
+Oh, I'll tell you all about it when I see you again
+When I see you again
+
+[Verse 1: Wiz Khalifa]
+Damn, who knew?
+All the planes we flew, good things we been through
+That I'd be standin' right here talkin' to you
+'Bout another path, I know we loved to hit the road and laugh
+But somethin' told me that it wouldn't last
+Had to switch up, look at things different, see the bigger picture
+Those were the days, hard work forever pays
+Now I see you in a better place (See you in a better place)
+Uh
+
+[Refrain: Wiz Khalifa]
+How can we not talk about family when family's all that we got?
+Everything I went through, you were standin' there by my side
+And now you gon' be with me for the last ride
+
+[Chorus: Charlie Puth, Wiz Khalifa]
+It's been a long day
+Without you, my friend
+And I'll tell you all about it when I see you again (I'll see you again)
+We've come a long way (Yeah, we came a long way)
+From where we began (You know where we started)
+Oh, I'll tell you all about it when I see you again (Let me tell you)
+When I see you again
+
+[Post-Chorus: Charlie Puth, Wiz Khalifa]
+Oh, oh
+Ooh (Yeah)
+
+[Verse 2: Wiz Khalifa]
+First, you both go out your way and the vibe is feelin' strong
+And what's small turned to a friendship, a friendship turned to a bond
+And that bond'll never be broken, the love will never get lost
+(The love will never get lost)
+And when brotherhood come first, then the line'll never be crossed
+Established it on our own when that line had to be drawn
+And that line is what we reached, so remember me when I'm gone
+(Remember me when I'm gone)
+
+[Refrain: Wiz Khalifa]
+How can we not talk about family when family's all that we got?
+Everything I went through, you were standin' there by my side
+And now you gon' be with me for the last ride
+
+[Bridge: Charlie Puth]
+So let the light guide your way, yeah
+Hold every memory as you go
+And every road you take
+Will always lead you home, home
+
+[Chorus: Charlie Puth]
+It's been a long day
+Without you, my friend
+And I'll tell you all about it when I see you again
+We've come a long way
+From where we began
+Oh, I'll tell you all about it when I see you again
+When I see you again
+
+[Post-Chorus: Charlie Puth, Wiz Khalifa]
+Oh (Uh), oh (Yeah-yeah; Yeah)
+Ooh (Yo, yo, uh)
+When I see you again (See you again, yeah, yeah)
+Oh (Yeah), oh (Yeah, yeah; oh-oh)
+Ooh (Uh-huh, yup)
+When I see you again`,
+
+
+`[Verse 1]
+And I'll use you as a warning sign
+That if you talk enough sense, then you'll lose your mind
+And I'll use you as a focal point
+So I don't lose sight of what I want
+And I've moved further than I thought I could
+But I missed you more than I thought I would
+And I'll use you as a warning sign
+That if you talk enough sense, then you'll lose your mind
+
+[Chorus]
+Oh, and I found love where it wasn't supposed to be
+Right in front of me, talk some sense to me
+And I found love where it wasn't supposed to be
+Right in front of me, talk some sense to me
+
+[Verse 2]
+And I'll use you as a makeshift gauge
+Of how much to give and how much to take
+Oh I'll use you as a warning sign
+That if you talk enough sense, then you'll lose your mind
+
+[Chorus]
+Oh, and I found love where it wasn't supposed to be
+Right in front of me, talk some sense to me
+And I found love where it wasn't supposed to be
+Right in front of me, talk some sense to me
+And I found love where it wasn't supposed to be
+Right in front of me, talk some sense to me
+And I found love where it wasn't supposed to be
+Right in front of me, talk some sense to me`,
+
+`[Intro]
+Only you know me
+The way you know me
+Only you forgive me
+When I'm sorry
+
+[Verse 1]
+Need you when I'm broken
+When I'm fixed
+Need you when I'm well
+And when I'm sick
+Friends that I rely on
+Don't come through
+They run like the river
+But not you
+
+[Pre-Chorus]
+Can't see when I'm falling
+Losing myself
+But then I hear you calling
+
+[Chorus]
+There you are
+There you are
+You're there with open arms
+There you are
+There you are
+And I run
+
+[Verse 2]
+Whispers in the background
+Behind closed doors
+I got myself in a mess and without you, I'm in more
+Oh, I'm a little drunk now
+That's why I went to war
+Oh yeah, you are my sober
+When I'm on the floor
+
+[Pre-Chorus]
+Can't see when I'm falling
+Losing myself
+But then I hear you calling
+
+[Chorus]
+There you are
+There you are
+You're there with open arms
+There you are
+There you are
+And I run
+
+[Post-Chorus]
+Only you know me the way you know me
+Only you forgive me when I'm sorry
+Even when I messed it up
+There you are
+
+[Bridge]
+Need you when I'm hot and when I'm cold
+Need you when I'm young
+When I'm old
+You won't be far
+
+[Chorus]
+There you are
+There you are
+You're there with open arms
+There you are
+There you are
+And I run
+
+[Post-Chorus]
+Only you know me the way you know me
+Only you forgive me when I'm sorry
+Even when I messed it up
+There you are
+
+[Outro]
+(Need you when I'm, need you when I'm
+Need you when I'm, need you when I'm)
+When you're caught in the crowds
+When you're up in the clouds
+When you're caught in the crowds
+When you're up in the clouds
+There you are`,
+
+`[Verse 1]
+I wanna be your vacuum cleaner
+Breathin' in your dust
+I wanna be your Ford Cortina
+I will never rust
+If you like your coffee hot
+Let me be your coffee pot
+You call the shots, babe
+I just wanna be yours
+
+[Pre-Chorus]
+Secrets I have held in my heart
+Are harder to hide than I thought
+Maybe I just wanna be yours
+
+[Chorus]
+I wanna be yours
+I wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+
+[Verse 2]
+Let me be your 'leccy meter
+An' I'll never run out
+Let me be the portable heater
+That you'll get cold without
+I wanna be your setting lotion (Wanna be)
+Hold your hair in deep devotion (How deep?)
+At least as deep as the Pacific Ocean
+I wanna be yours
+
+[Pre-Chorus]
+Secrets I have held in my heart
+Are harder to hide than I thought
+Maybe I just wanna be yours
+
+[Chorus]
+I wanna be yours
+I wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+
+[Outro]
+I wanna be your vacuum cleaner (Wanna be yours)
+Breathin' in your dust (Wanna be yours)
+I wanna be your Ford Cortina (Wanna be yours)
+I will never rust (Wanna be yours)
+I just wanna be yours (Wanna be yours)
+I just wanna be yours (Wanna be yours)
+I just wanna be yours (Wanna be yours)`
 ]
