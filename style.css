@@ -831,8 +831,8 @@ pre {
   padding: 10px;
   border-radius: 50%;
   background-color: rgb(232, 232, 232);
-  box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
-    -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+  /* box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(255, 255, 255, 0.7); */
 }
 .inner {
   height: 30px;
@@ -976,6 +976,28 @@ svg {
   .music_player {
     width: 28rem;
   }
+  .imgBox {
+    width: 20rem;
+    height: 20rem;
+  }
+  .imgBox img {
+    transform: translate(0px, 20px);
+  }
+  .lyrics_box {
+    transform: translate(0px, 80px);
+  }
+  #lyrics-display {
+    max-height: 40rem;
+  }
+  .music_player .songDetails {
+    transform: translate(0px, 30px);
+  }
+  .progressBox {
+    transform: translate(0px, 50px);
+  }
+  .player_controls {
+    transform: translate(0px, 70px);
+  }
   #lyrics_container {
     width: 25rem;
   }
@@ -984,6 +1006,32 @@ svg {
   }
   .followingBox button {
     transform: translate(25px, -40px);
+  }
+  .navigation-auto{
+    margin-top: 106px;
+  }
+  .slide img {
+    width: 300px;
+    height: 120px;
+  }
+  .followingBox{
+    height: 120px;
+  }
+  .music_library .header {
+    margin-bottom:1rem;
+  }
+  .allAlbums{
+    margin: 0;
+    height: 100px;
+  }
+  .albums{
+    height: 100px;
+  }
+  .music_library ul{
+    max-height: 15rem;
+  }
+  .small-music-player .prev_next{
+    margin-left: 40px;
   }
 }
 @media screen and (max-width: 300px) {
