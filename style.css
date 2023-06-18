@@ -882,7 +882,7 @@ svg {
     height: 25rem;
   }
   .imgBox img {
-    transform: translate(0px, 40px);
+    transform: translate(0px, 60px);
   }
   #lyrics_container {
     width: 31rem;
@@ -894,7 +894,7 @@ svg {
     transform: translate(0px, 140px);
   }
   #lyrics-display {
-    max-height: 60rem;
+    max-height: 75rem;
   }
   .music_player .songDetails {
     transform: translate(0px, 80px);
@@ -912,8 +912,15 @@ svg {
     border-radius: 0;
     box-shadow: none;
   }
+  .navigation-auto{
+    margin-top: 116px;
+  }
   .slide img {
     width: 340px;
+    height: 140px;
+  }
+  .followingBox{
+    height: 140px;
   }
   .followingBox button {
     transform: translate(-45px, -40px);
@@ -922,7 +929,11 @@ svg {
     margin: 1rem 0;
   }
   .allAlbums{
-    margin: 2rem 0;
+    margin: 1rem 0;
+    height: 120px;
+  }
+  .albums{
+    height: 115px;
   }
   .music_library ul{
     max-height: 25rem;

@@ -21,11 +21,12 @@ let smallMusicPlayerContainer = document.querySelector(".small-music-player");
 let smallPlayPauseBtn = document.querySelector(".outer");
 let svgBtn = document.querySelector("svg");
 let libraryBtn = document.querySelector(".music_player .header i");
-
+var mobileMode=false;
 var w = window.innerWidth;
 if (w < 550) {
     libraryBtn.textContent = "library_music";
     musicList.classList.add("hidden");
+    mobileMode=true;
 }
 
 window.addEventListener("resize", () => {
@@ -44,6 +45,7 @@ window.addEventListener("resize", () => {
     }
 });
 if (libraryBtn.textContent=="library_music") {
+    mobileMode=true;
     libraryBtn.addEventListener("click",()=>{
         musicPlayer.classList.toggle("hidden");
         musicList.classList.toggle("hidden");
@@ -393,7 +395,7 @@ function showData(data) {
                         </div>
     <pre id="lyrics-display">${arr[musicIndex - 1]}</pre>
     <i class="material-icons" id="showplayerBtn" style="position: absolute;
-    right: 47%; bottom:2%; cursor: pointer;">arrow_drop_down</i>`
+    right: 47%; bottom:4%; cursor: pointer;">arrow_drop_down</i>`
     const showplayerBtn = output.querySelector("#showplayerBtn");
     showplayerBtn.addEventListener("click", () => {
         musicPlayer.classList.toggle("hidden");
@@ -470,12 +472,19 @@ AlbumSeeAll.addEventListener("click", () => {
     hiddingTracks.classList.toggle("hidden");
     if (hiddingTracks.classList.contains("hidden")) {
         Albums.style.height = "370px";
+        if (mobileMode==true) {
+            Albums.style.height = "540px";
+        }
         Albums.style.overflowY = "scroll";
         AlbumSeeAll.textContent = "See less";
     }
     else {
         AlbumSeeAll.textContent = "See all";
         Albums.style.height = "100px";
+        if(mobileMode==true)
+        {
+            Albums.style.height = "120px";
+        }
         Albums.style.overflowY = "hidden";
         Albums.scroll(0, 0);
     }
@@ -489,10 +498,16 @@ TracksSeeAll.addEventListener("click", () => {
     hiddingAlbums.classList.toggle("hidden");
     if (hiddingAlbums.classList.contains("hidden")) {
         ul_library.style.maxHeight = "37.3rem";
+        if (mobileMode==true) {
+            ul_library.style.maxHeight = "55.3rem";
+        }
         TracksSeeAll.textContent = "See less";
     }
     else {
         ul_library.style.maxHeight = "10rem";
+        if (mobileMode==true) {
+            ul_library.style.maxHeight = "25rem";
+        }
         ul_library.scroll(0, 0);
         TracksSeeAll.textContent = "See all";
     }
