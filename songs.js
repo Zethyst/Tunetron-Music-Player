@@ -79,81 +79,45 @@ let songlist=[
         img:"cover13"
     },
     {
-        name:"Kabira",
-        artist:"Pritam",
+        name:"We Own It",
+        artist:"2 Chainz, Wiz Khalifa",
         src:"song14",
         img:"cover14"
     },
     {
-        name:"Tokyo Drift",
-        artist:"Teriyaki Boyz",
+        name:"I Found",
+        artist:"Amber Run",
         src:"song15",
         img:"cover15"
     },
     {
-        name:"We Own It",
-        artist:"2 Chainz, Wiz Khalifa",
+        name:"There You Are",
+        artist:"Zayn Malik",
         src:"song16",
         img:"cover16"
     },
     {
-        name:"See You Again",
-        artist:"Wiz Khalifa & Charlie Puth",
+        name:"I Wanna Be Yours",
+        artist:"Arctic Monkeys",
         src:"song17",
         img:"cover17"
     },
     {
-        name:"I Found",
-        artist:"Amber Run",
+        name:"Softcore",
+        artist:"The Neighbourhood",
         src:"song18",
         img:"cover18"
     },
     {
-        name:"There You Are",
-        artist:"Zayn Malik",
+        name:"Nightcall",
+        artist:"Kavinsky",
         src:"song19",
         img:"cover19"
     },
     {
-        name:"I Wanna Be Yours",
-        artist:"Arctic Monkeys",
-        src:"song20",
-        img:"cover20"
-    },
-    {
-        name:"Softcore",
-        artist:"The Neighbourhood",
-        src:"song21",
-        img:"cover21"
-    },
-    {
-        name:"After Dark",
-        artist:"Mr.Kitty",
-        src:"song22",
-        img:"cover22"
-    },
-    {
-        name:"Nightcall",
-        artist:"Kavinsky",
-        src:"song23",
-        img:"cover23"
-    },
-    {
-        name:"Birds",
-        artist:"Imagine Dragons",
-        src:"song24",
-        img:"cover24"
-    },
-    {
         name:"So Long, Goodbye",
         artist:"Danny Zee",
-        src:"song25",
-        img:"cover25"
-    },
-    {
-        name:"Katputli Ke Dhaage",
-        artist:"Himonshu Ft. Anumita",
-        src:"song26",
-        img:"cover26"
+        src:"song20",
+        img:"cover20"
     },
 ]

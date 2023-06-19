@@ -10,8 +10,8 @@
     <link rel="stylesheet" 
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
-            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="preload" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+            <link rel="preload" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" href="/favicon.ico">
     <!-- <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"> -->
     <title>Tunetron</title>
@@ -77,14 +77,14 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
                         <input type="radio" name="radio-btn" id="radio1" checked="true">
                         <input type="radio" name="radio-btn" id="radio2">
                         <div class="slide first">
-                        <img src="/Assets/Images/singer2.jpg" alt="Banner 1">
+                        <img src="/Assets/Images/singer2.jpg" alt="Banner 1" loading="eager">
                         <div id="following">
                             <span>Linkin Park</span>
                             <p>34,293,136 listeners</p>
                         </div>
                     </div>
                     <div class="slide">
-                        <img src="/Assets/Images/singer1.jpg" height="121px" alt="Banner 2">
+                        <img src="/Assets/Images/singer1.jpg" height="121px" alt="Banner 2" loading="lazy">
                         <div id="following">
                             <span>Zayn Malik</span>
                             <p>22,484,557 listeners</p>

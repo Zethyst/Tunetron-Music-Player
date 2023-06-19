@@ -866,12 +866,13 @@ svg {
   cursor: pointer;
 }
 
-.wiggleAnimation{
+.wiggleAnimation {
   animation: wiggle 2s linear infinite;
 }
 
 @keyframes wiggle {
-  0%, 7% {
+  0%,
+  7% {
     transform: rotateZ(0);
   }
   15% {
@@ -889,7 +890,8 @@ svg {
   35% {
     transform: rotateZ(-4deg);
   }
-  40%, 100% {
+  40%,
+  100% {
     transform: rotateZ(0);
   }
 }
@@ -939,39 +941,39 @@ svg {
     border-radius: 0;
     box-shadow: none;
   }
-  .navigation-auto{
+  .navigation-auto {
     margin-top: 116px;
   }
   .slide img {
     width: 340px;
     height: 140px;
   }
-  .followingBox{
+  .followingBox {
     height: 140px;
   }
   .followingBox button {
     transform: translate(-45px, -40px);
   }
   .music_library .header {
-    margin-bottom:1rem;
+    margin-bottom: 1rem;
   }
-  .allAlbums{
+  .allAlbums {
     margin: 1rem 0;
     height: 120px;
   }
-  .albums{
+  .albums {
     height: 115px;
   }
-  .albumBtn p{
+  .albumBtn p {
     transform: translate(-12px, 1px);
   }
-  .music_library ul{
+  .music_library ul {
     max-height: 22rem;
   }
   .small-music-player .prev_next {
     margin-left: 65px;
   }
-  .small-music-player{
+  .small-music-player {
     transform: translate(0px, 10px);
   }
 }
@@ -1019,7 +1021,7 @@ svg {
     margin-left: 15px;
     width: 95%;
   }
-  .albumBtn p{
+  .albumBtn p {
     transform: translate(-7px, 1px);
   }
 }
@@ -1058,30 +1060,30 @@ svg {
   .followingBox button {
     transform: translate(25px, -40px);
   }
-  .navigation-auto{
+  .navigation-auto {
     margin-top: 106px;
   }
   .slide img {
     width: 300px;
     height: 120px;
   }
-  .followingBox{
+  .followingBox {
     height: 120px;
   }
   .music_library .header {
-    margin-bottom:1rem;
+    margin-bottom: 1rem;
   }
-  .allAlbums{
+  .allAlbums {
     margin: 1rem 0;
     height: 100px;
   }
-  .albums{
+  .albums {
     height: 100px;
   }
-  .music_library ul{
+  .music_library ul {
     max-height: 15rem;
   }
-  .small-music-player .prev_next{
+  .small-music-player .prev_next {
     margin-left: 40px;
   }
 }

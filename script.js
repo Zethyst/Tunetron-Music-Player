@@ -281,7 +281,7 @@ const ulTag = document.querySelector('ul');
 songlist.forEach((elm, index) => {
     let liTag = `<li liIndex="${index + 1}">
                  <div class="smallimgBox">
-                     <img src="/Assets/Images/${elm.img}.jpg" alt="Album Cover" draggable="false">
+                     <img src="/Assets/Images/${elm.img}.jpg" alt="Album Cover" loading="lazy" draggable="false">
                 </div>
                  <div class="oneSongContainer">
                  <span>${elm.name}</span>
@@ -442,7 +442,7 @@ songlist.forEach((elm, index) => {
     let albumTag = `
     <div class="albums" alt="${index + 1}" onclick="albumBtnClicked(this)">
     <div class="albumImg">
-        <img src="/Assets/Images/${elm.img}.jpg"}>
+        <img src="/Assets/Images/${elm.img}.jpg" loading="lazy"}>
     </div>
         <div class="albumBtn">
             <div id="albumBtnTitle">
@@ -538,5 +538,3 @@ setInterval(() => {
         flag = 0;
     }
 }, 10000);
-
-
