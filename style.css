@@ -962,6 +962,9 @@ svg {
   .albums{
     height: 115px;
   }
+  .albumBtn p{
+    transform: translate(-12px, 1px);
+  }
   .music_library ul{
     max-height: 22rem;
   }
@@ -1015,6 +1018,9 @@ svg {
   .progressBox {
     margin-left: 15px;
     width: 95%;
+  }
+  .albumBtn p{
+    transform: translate(-7px, 1px);
   }
 }
 @media screen and (max-width: 325px) {
