@@ -437,9 +437,6 @@ lyricBtn.addEventListener("click", () => {
     hideLyrics.classList.toggle("hidden");
 });
 
-setTimeout(()=>{
-
-
 const Albums = document.querySelector(".allAlbums")
 songlist.forEach((elm, index) => {
     let albumTag = `
@@ -466,7 +463,7 @@ const albumBtnClicked = (el) => {
     playMusic();
     playingNow();
 }
-},2000);
+
 const followingBox = document.querySelector(".hiddingBanner");
 const hiddingTracks = document.querySelector(".hiddingTracks");
 const AlbumSeeAll = document.querySelector("#AlbumTitle p");
