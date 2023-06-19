@@ -43,8 +43,8 @@ let songlist=[
         img:"cover6"
     },
     {
-        name:"Birds",
-        artist:"Imagine Dragons",
+        name:"Deva Deva",
+        artist:"Arijit Singh",
         src:"song7",
         img:"cover7"
     },
@@ -143,5 +143,23 @@ let songlist=[
         artist:"Kavinsky",
         src:"song23",
         img:"cover23"
+    },
+    {
+        name:"Birds",
+        artist:"Imagine Dragons",
+        src:"song24",
+        img:"cover24"
+    },
+    {
+        name:"So Long, Goodbye",
+        artist:"Danny Zee",
+        src:"song25",
+        img:"cover25"
+    },
+    {
+        name:"Katputli Ke Dhaage",
+        artist:"Himonshu Ft. Anumita",
+        src:"song26",
+        img:"cover26"
     },
 ]

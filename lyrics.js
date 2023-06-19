@@ -252,76 +252,7 @@ In the darkness before the dawn
 Leave a light, a light on
 Leave a light, a light on`
 
-,`[Verse 1]
-Two hearts, one valve
-Pumpin' the blood, we were the flood
-We were the body and
-Two lives, one life
-Stickin' it out, lettin' you down
-Makin' it right
-
-[Pre-Chorus]
-Seasons, they will change
-Life will make you grow
-Dreams will make you cry, cry, cry
-Everything is temporary
-Everything will slide
-Love will never die, die, die
-
-[Chorus]
-I know that
-Ooh, ooh, ooh, ooh
-Birds fly in different directions
-Ooh, ooh, ooh, ooh
-I hope to see you again
-
-[Verse 2]
-Sunsets, sunrises
-Livin' the dream, watchin' the leaves
-Changin' the seasons
-Some nights I think of you
-Relivin' the past, wishin' it'd last
-Wishin' and dreamin'
-
-[Pre-Chorus]
-Seasons, they will change
-Life will make you grow
-Death can make you hard, hard, hard
-Everything is temporary
-Everything will slide
-Love will never die, die, die
-
-[Chorus]
-I know that
-Ooh, ooh, ooh, ooh
-Birds fly in different directions
-Ooh, ooh, ooh, ooh
-I hope to see you again
-Ooh, ooh, ooh, ooh
-Birds fly in different directions
-Ooh, ooh, ooh, ooh
-So fly high, so fly high
-
-[Bridge]
-When the moon is lookin' down
-Shinin' light upon your ground
-I'm flyin' up to let you see
-That the shadow cast is me
-
-[Chorus]
-I know that
-Ooh, ooh, ooh, ooh
-Birds fly in different directions
-Ooh, ooh, ooh, ooh
-I hope to see you again
-Ooh, ooh, ooh, ooh
-Birds fly in different directions
-Ooh, ooh, ooh, ooh
-So fly high, so fly high
-Ooh, ooh, ooh, ooh
-So fly high, so fly high
-Ooh, ooh, ooh, ooh
-So fly high, so fly high`,
+,
 
 `[Verse 1: Mike Shinoda]
 Take me down to the river bend
@@ -1197,5 +1128,373 @@ I wanna be your Ford Cortina (Wanna be yours)
 I will never rust (Wanna be yours)
 I just wanna be yours (Wanna be yours)
 I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours)`
+I just wanna be yours (Wanna be yours)`,
+
+`[Verse 1]
+You've been my muse for a long time
+You get me through every dark night
+I'm always gone, out on the go
+I'm on the run and you're home alone
+I'm too consumed with my own life
+
+[Pre-Chorus]
+Are we too young for this?
+Feels like I can't move
+
+[Chorus]
+Sharing my heart
+It's tearing me apart
+But I know I'd miss you, baby, if I left right now
+Doing what I can, tryna be a man
+And every time I kiss you, baby
+I can hear the sound of breaking down
+
+[Verse 2]
+I've been confused as of late (Yeah)
+Watching my youth slip away (Yeah)
+You're like the sun, you wake me up
+But you drain me out if I get too much
+I might need room or I'll break
+
+[Pre-Chorus]
+Are we too young for this?
+Feels like I can't move
+
+[Chorus]
+Sharing my heart
+It's tearing me apart
+But I know I'd miss you, baby, if I left right now
+Doing what I can, tryna be a man
+And every time I kiss you, baby
+I can hear the sound of breaking down
+
+[Bridge]
+Breaking down, breaking down, breaking down
+Breaking down, breaking down, breaking down
+I don't want to play this part
+But I do, all for you
+I don't want to make this hard
+But I will 'cause I'm still
+
+[Chorus]
+Sharing my heart
+It's tearing me apart
+But I know I'd miss you, baby, if I left right now (I know I would)
+Doing what I can, tryna be a man (Be your man)
+And every time I kiss you, baby
+I can hear the sound of breaking down
+
+[Outro]
+Sharing my bed, uh
+Sharing my bread, yeah
+Sharing my bread
+Sharing my head
+(I'm breaking down)
+Sharing my heart
+Sharing my, suddenly I'm
+(Breaking down)
+Sharing, I'm done
+Sharing my life`,
+
+`[Verse 1]
+I see you, you see me
+How pleasant, this feeling
+The moment you hold me
+I missed you, I'm sorry
+I've given what I have
+I showed you I'm growing
+The ashes fall slowly
+As your voice consoles me
+
+[Chorus]
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+
+[Verse 2]
+We're swaying to drum beats
+In motion, I'm feeling
+My patience controlling
+The question, I won't speak
+We're telling the stories
+Our laughter, he knows me
+We're leaving, we're talking
+You're closer, it's calming
+
+[Chorus]
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+
+[Bridge]
+The night will hold us close and the stars will guide us home
+I've been waiting for this moment, we're finally alone
+I turn to ask the question, so anxious, my thoughts
+Your lips were soft like winter, in your passion, I was lost
+
+[Chorus]
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know
+As the hours pass
+I will let you know
+That I need to ask
+Before I'm alone
+How it feels to rest
+On your patient lips
+To eternal bliss
+I'm so glad to know`,
+
+`[Verse: Kavinsky & Sébastien Tellier]
+I'm giving you a night call to tell you how I feel
+(We'll go all, all, all night long)
+I want to drive you through the night, down the hills
+(We'll go all, all, all night long)
+I'm gonna tell you something you don't want to hear
+(We'll go all, all, all night long)
+I'm gonna show you where it's dark, but have no fear
+(We'll go all, all, all night long)
+
+[Chorus: Lovefoxxx]
+There's something inside you
+It's hard to explain
+They're talking about you, boy
+But you're still the same
+There's something inside you
+It's hard to explain
+They're talking about you, boy
+But you're still the same
+
+[Verse: Kavinsky & Sébastien Tellier]
+I'm giving you a night call to tell you how I feel
+(We'll go all, all, all night long)
+I want to drive you through the night, down the hills
+(We'll go all, all, all night long)
+I'm gonna tell you something you don't want to hear
+(We'll go all, all, all night long)
+I'm gonna show you where it's dark, but have no fear
+(We'll go all, all, all night long)
+
+[Chorus: Lovefoxxx]
+There's something inside you
+It's hard to explain
+They're talking about you, boy
+But you're still the same
+There's something inside you
+It's hard to explain
+They're talking about you, boy
+But you're still the same
+There's something inside you
+It's hard to explain
+They're talking about you, boy
+But you're still the same`,
+
+`[Verse 1]
+Two hearts, one valve
+Pumpin' the blood, we were the flood
+We were the body and
+Two lives, one life
+Stickin' it out, lettin' you down
+Makin' it right
+
+[Pre-Chorus]
+Seasons, they will change
+Life will make you grow
+Dreams will make you cry, cry, cry
+Everything is temporary
+Everything will slide
+Love will never die, die, die
+
+[Chorus]
+I know that
+Ooh, ooh, ooh, ooh
+Birds fly in different directions
+Ooh, ooh, ooh, ooh
+I hope to see you again
+
+[Verse 2]
+Sunsets, sunrises
+Livin' the dream, watchin' the leaves
+Changin' the seasons
+Some nights I think of you
+Relivin' the past, wishin' it'd last
+Wishin' and dreamin'
+
+[Pre-Chorus]
+Seasons, they will change
+Life will make you grow
+Death can make you hard, hard, hard
+Everything is temporary
+Everything will slide
+Love will never die, die, die
+
+[Chorus]
+I know that
+Ooh, ooh, ooh, ooh
+Birds fly in different directions
+Ooh, ooh, ooh, ooh
+I hope to see you again
+Ooh, ooh, ooh, ooh
+Birds fly in different directions
+Ooh, ooh, ooh, ooh
+So fly high, so fly high
+
+[Bridge]
+When the moon is lookin' down
+Shinin' light upon your ground
+I'm flyin' up to let you see
+That the shadow cast is me
+
+[Chorus]
+I know that
+Ooh, ooh, ooh, ooh
+Birds fly in different directions
+Ooh, ooh, ooh, ooh
+I hope to see you again
+Ooh, ooh, ooh, ooh
+Birds fly in different directions
+Ooh, ooh, ooh, ooh
+So fly high, so fly high
+Ooh, ooh, ooh, ooh
+So fly high, so fly high
+Ooh, ooh, ooh, ooh
+So fly high, so fly high`,
+
+`I'm hurt
+And how could it be it was her?
+My heart on a platter, she served
+Ripped it out, is she Lecter?
+Oh my God
+Shit like this, I didn't deserve
+Slipping on me, you got nerve
+You told me the truth, still it burnt
+Oh my God
+How can you expect me to turn?
+Turn a new leaf while I burned?
+Oh my God, ooh
+To tell you the truth, I was hurt
+And you just stood there while I burned
+Oh my God, ooh
+Oh my God, ooh
+Oh my God, ooh
+Outta my way while I skrrt
+The wind just might blow up your skirt
+Oh my
+
+So long, goodbye
+Girl, I'm over your lies
+Catch me fly up the skies
+Up away
+'Way, 'way, 'way
+'Way
+'Way
+'Way
+'Way
+So long, goodbye
+Girl, I'm over your lies
+Catch me fly up the skies
+Up away
+So long, goodbye
+Girl, I'm over your lies
+Catch me fly up the skies
+Up away
+
+Tu murh ke na jaa veen hon sajna
+Main teriyaan rawaan takdi phiraan
+Main raj ke tenu hon taklaan
+Tu murh ke na jaa veen hon sajna
+Sajna tu na ja sajna
+Tenu aj taklaan
+Tere vich meri jaan
+Tu na jaa
+
+Sajna tu na ja sajna
+Tenu aj taklaan
+Tere vich meri jaan
+Tu na jaa
+Sajna tu jaa`,
+
+`Mere raaste likhe hai zindagi ne
+Tujhe chod ke chala mai bebasi se
+
+Kathputli ke dhaage
+Hum ko duur kahin le jaayenge
+Sagar mein dikhte taaron
+Jaise hum bhi mil jaayenge
+
+Kathputli ke dhaage
+Hum ko duur kahin le jaayenge
+Sagar mein dikhte taaron
+Jaise hum bhi mil jaayenge
+
+Mai kyun, khoya khoya sa?
+Ud raha hu par, yeh dil kyun doob raha?
+Mai kyun, khoya khoya sa?
+Ud raha hu par, yeh dil kyun doob raha?
+
+Mai kyun, khoya khoya sa?
+Ud raha hu par, yeh dil kyun doob raha?
+Mai kyun, khoya khoya sa?
+Ud raha hu par, yeh dil kyun doob raha?
+
+Sunne, keh raha naseeb jo mujhi se
+
+Chale, phir bhi teri dhun pe mann khudi se
+
+Kathputli ke dhaage
+Hum ko duur kahin le jaayenge
+Sagar mein dikhte taaron
+Jaise hum bhi mil jaayenge
+
+Kathputli ke dhaage
+Hum ko duur kahin le jaayenge
+Sagar mein dikhte taaron
+Jaise hum bhi mil jaayenge`
 ]
