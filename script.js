@@ -437,6 +437,9 @@ lyricBtn.addEventListener("click", () => {
     hideLyrics.classList.toggle("hidden");
 });
 
+setTimeout(()=>{
+
+
 const Albums = document.querySelector(".allAlbums")
 songlist.forEach((elm, index) => {
     let albumTag = `
@@ -463,7 +466,7 @@ const albumBtnClicked = (el) => {
     playMusic();
     playingNow();
 }
-
+},2000);
 const followingBox = document.querySelector(".hiddingBanner");
 const hiddingTracks = document.querySelector(".hiddingTracks");
 const AlbumSeeAll = document.querySelector("#AlbumTitle p");
@@ -512,8 +515,11 @@ TracksSeeAll.addEventListener("click", () => {
         TracksSeeAll.textContent = "See all";
     }
 });
-var flag = 0;
-followBtn.addEventListener("click", () => {
+
+setTimeout(()=>{
+
+    var flag = 0;
+    followBtn.addEventListener("click", () => {
     if (flag == 1) {
         window.open(
             'https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz',
@@ -524,9 +530,10 @@ followBtn.addEventListener("click", () => {
         window.open(
             'https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81',
             '_blank'
-        );
-    }
-});
+            );
+        }
+    });
+},5000);
 
 var counter = 1;
 setInterval(() => {
