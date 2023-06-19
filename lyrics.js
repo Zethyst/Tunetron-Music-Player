@@ -1,50 +1,51 @@
-var arr=[`[Intro: Swae Lee]
-Ayy, ayy, ayy, ayy (Ooh)
-Ooh, ooh, ooh, ooh (Ooh)
-Ayy, ayy
-Ooh, ooh, ooh, ooh
+var arr=[`[Verse 1: Vince Staples]
+This morning I woke up in a fortress of distortion
+I'm at war with my emotions, I'm at war with they enforcement
+Tryna fight for what's right and got sidetracked
+Where your mind at? Never mind that
+Can we think in a blink, you swimmin', you sinkin'
+You win, you leavin' a head where I've loaded my weapon
+I stay with my brethren, I pray for protection
+My prey in my sight so I'm doing what's right and not askin' no questions
+I wanna be home free, where's one that was lonely?
+But I'm ready and waitin'
+For my day of salvation, and I'm patient
 
-[Verse 1: Swae Lee]
-Needless to say, I keep in check
-She was a bad-bad, nevertheless (Yeah)
-Callin' it quits now, baby, I'm a wreck (Wreck)
-Crash at my place, baby, you're a wreck (Wreck)
-Needless to say, I'm keeping in check
-She was a bad-bad, nevertheless
-Callin' it quits now, baby, I'm a wreck
-Crash at my place, baby, you're a wreck
-Thinkin' in a bad way, losin' your grip
-Screamin' at my face, baby, don't trip
-Someone took a big L, don't know how that felt
-Lookin' at you sideways, party on tilt
-Ooh-ooh, some things you just can't refuse
-She wanna ride me like a cruise and I'm not tryna lose
+[Chorus: Richie Kohan]
+(Oh, oh, oh, oh, oh)
+I'm coming home now
+I'm coming home
+(Oh, oh, oh, oh, oh)
+Right where I belong now
+Right where I belong
 
-[Chorus: Swae Lee]
-Then you're left in the dust, unless I stuck by ya
-You're a sunflower, I think your love would be too much
-Or you'll be left in the dust, unless I stuck by ya
-You're the sunflower, you're the sunflower
+[Verse 2: Vince Staples]
+They're looking for saviors, I'm looking for safety
+They never gon' break me, take me
+Down on my knees, believe I'm never gon' beg or plead
+Yeah, I never say never, but I guarantee
+Gather my strength, goin' hard in the paint
+Paint you a picture, it's put on display
+I'm gonna get, they don't give then I take
+Can't take me down now
+My feet on the ground now
+Fight 'til I'm down now
+Say it out loud now
+Say it out loud, are you ready for war?
 
-[Verse 2: Post Malone]
-Every time I'm leavin' on ya (Ooh)
-You don't make it easy, no (No, no)
-Wish I could be there for ya (Ooh)
-Give me a reason to, oh (Oh)
-Every time I'm walkin' out (Oh)
-I can hear you tellin' me to turn around (Oh, oh)
-Fightin' for my trust and you won't back down (No)
-Even if we gotta risk it all right now, oh (Now)
-I know you're scared of the unknown (Known)
-You don't wanna be alone (Alone)
-I know I always come and go (And go)
-But it's out of my control
+[Chorus: Richie Kohan]
+(Oh, oh, oh, oh, oh)
+I'm coming home now
+I'm coming home
+(Oh, oh, oh, oh, oh)
+Right where I belong now
+Right where I belong
 
-[Chorus: Post Malone]
-And you'll be left in the dust, unless I stuck by ya
-You're the sunflower, I think your love would be too much
-Or you'll be left in the dust, unless I stuck by ya
-You're the sunflower, you're the sunflower (Yeah)`,
+[Outro: Richie Kohan]
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh`,
 
 `
 [Chorus: Roisee & Young Thug]
@@ -253,6 +254,77 @@ Leave a light, a light on
 Leave a light, a light on`
 
 ,
+
+`Chingariyan Yeh Jo Mere
+Seene Mein Hai Dafan
+Inko Zara Deke Hawa
+Ban Jaaun Main Agan
+
+Chingariyan Yeh Jo Mere
+Seene Mein Hai Dafan
+Inko Zara Deke Hawa
+Ban Jaaun Main Agan
+
+Dahak Raha Hai Banke Sharara
+Dekh Mera Badan
+Sab Kuchh Mera Karke Fanaa
+Karta Hoon Main Hawan
+
+Om Deva Deva
+Om Deva Deva Namah
+Namho Namah
+
+Om Deva Deva
+Om Deva Deva Namah
+Namho Namah Om
+
+Mehsoos Khud Ko Maine Kiya
+Jab Toone Chhua
+
+Om Deva Deva
+Om Deva Deva Namah
+Namho Namah Om
+
+Namho Namho Namho Namho
+Namho Namho Namho Namho
+
+Ishq Humara Nahi Yeh Fitoor Hai
+Rishta Puraana Koyi Toh Zaroor Hai
+Aake Mile Hain Usi Ke Toh Vaaste
+Yeh Raaste Yeh Raaste
+
+Hmm Tu Hai Hawaon Ka Jhonka
+Main Aag Hoon
+Tu Raagdaari Hai Meri
+Main Raag Hoon
+
+Main Jee Raha Hoon
+Tere Intezaar Mein
+Aavaaz De Aavaaz De
+
+Teri Saraye Dhoondh Raha Tha
+Mera Banjara Man
+Sab Kuchh Mera Karke Fanaa
+Karta Hoon Main Hawan
+
+Om Deva Deva
+Om Deva Deva Namah
+Namho Namah
+
+Om Deva Deva
+Om Deva Deva Namah
+Namho Namah Om
+
+Mehsoos Khud Ko Maine Kiya
+Jab Toone Chhua
+
+Om Deva Deva
+Om Deva Deva Namah
+Namho Namah Om
+
+Namho Namho Namho Namho
+Namho Namho Namho Namho..
+`,
 
 `[Verse 1: Mike Shinoda]
 Take me down to the river bend

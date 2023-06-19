@@ -30,12 +30,6 @@ let songlist=[
         img:"cover5"
     },
 
-    // {
-    //     name:"There you are",
-    //     artist:"Zayn Malik",
-    //     src:"song5",
-    //     img:"cover5"
-    // },
     {
         name:"Midnight",
         artist:"Coldplay",
