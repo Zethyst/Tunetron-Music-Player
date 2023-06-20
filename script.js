@@ -39,7 +39,7 @@ document.onreadystatechange = function() {
               followingBox.classList.remove("hidden");
             document.querySelector(
               "body").style.visibility = "visible";
-        },5000)
+        },4000)
     }
 };
 
