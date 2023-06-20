@@ -13,6 +13,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
+  width: 100vw;
   background: #c9ced3;
   display: flex;
   justify-content: center;
@@ -24,7 +25,53 @@ body {
   background-size: cover;
   background-position: center;
   backdrop-filter: blur(10px);
+  /* visibility: hidden; */
 }
+#loader {
+  position: absolute;
+  width: 6rem;
+  height: 6rem;
+  border: 15px solid #f3f3f3;
+  border-top: 12px solid #3498db;
+  border-radius: 100%;
+  margin: 2rem auto;
+  visibility: visible;
+  animation: spin 1s infinite linear;
+}
+.display{
+  visibility: hidden;
+  display: none;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+.fadeInUp {
+  animation-name: fadeInUp;
+  animation-duration: 0.4s;
+  /* animation-iteration-count: ; */
+  animation-timing-function: ease-in-out;
+  /* animation-direction: alternate-reverse; */
+  animation-fill-mode: both;
+}
+
 .hidden {
   display: none;
 }

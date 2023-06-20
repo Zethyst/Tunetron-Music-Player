@@ -21,7 +21,28 @@ let smallMusicPlayerContainer = document.querySelector(".small-music-player");
 let smallPlayPauseBtn = document.querySelector(".outer");
 let svgBtn = document.querySelector("svg");
 let libraryBtn = document.querySelector(".music_player .header i");
+const followingBox = document.querySelector(".hiddingBanner");
 var mobileMode=false;
+
+document.onreadystatechange = function() {
+    if (document.readyState !== "complete") {
+        document.querySelector(
+          "body").style.visibility = "hidden";
+          followingBox.classList.add("hidden");
+        document.querySelector(
+          "#loader").style.visibility = "visible";
+    } 
+    else{
+        setTimeout(()=>{
+            document.querySelector(
+              "#loader").style.display = "none";
+              followingBox.classList.remove("hidden");
+            document.querySelector(
+              "body").style.visibility = "visible";
+        },1000)
+    }
+};
+
 var w = window.innerWidth;
 if (w < 550) {
     libraryBtn.textContent = "library_music";
@@ -464,7 +485,7 @@ const albumBtnClicked = (el) => {
     playingNow();
 }
 
-const followingBox = document.querySelector(".hiddingBanner");
+
 const hiddingTracks = document.querySelector(".hiddingTracks");
 const AlbumSeeAll = document.querySelector("#AlbumTitle p");
 AlbumSeeAll.addEventListener("click", () => {
