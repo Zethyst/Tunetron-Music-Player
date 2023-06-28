@@ -49,12 +49,6 @@ let songlist=[
         img:"cover8"
     },
     {
-        name:"Someone",
-        artist:"TSS",
-        src:"song9",
-        img:"cover9"
-    },
-    {
         name:"Tangled Up",
         artist:"Parade of Lights",
         src:"song10",
@@ -71,18 +65,6 @@ let songlist=[
         artist:"The Chainsmokers",
         src:"song12",
         img:"cover12"
-    },
-    {
-        name:"Yeh Raaten Yeh Mausam",
-        artist:"Sanam, Simran Sehgal",
-        src:"song13",
-        img:"cover13"
-    },
-    {
-        name:"We Own It",
-        artist:"2 Chainz, Wiz Khalifa",
-        src:"song14",
-        img:"cover14"
     },
     {
         name:"I Found",
@@ -107,12 +89,6 @@ let songlist=[
         artist:"The Neighbourhood",
         src:"song18",
         img:"cover18"
-    },
-    {
-        name:"Nightcall",
-        artist:"Kavinsky",
-        src:"song19",
-        img:"cover19"
     },
     {
         name:"So Long, Goodbye",
