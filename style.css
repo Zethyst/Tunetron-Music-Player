@@ -970,7 +970,7 @@ svg {
     transform: rotateZ(0);
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
   html,
   body {
     background: #f8f4fc;
