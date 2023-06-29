@@ -976,7 +976,7 @@ svg {
     background: #f8f4fc;
   }
   .music_player {
-    width: 34rem;
+    width: 100vw;
     height: 100vh;
     border-radius: 0;
     box-shadow: none;
@@ -989,7 +989,7 @@ svg {
     transform: translate(0px, 60px);
   }
   #lyrics_container {
-    width: 31rem;
+    width: 100vw;
     height: 100vh;
     border-radius: 0;
     box-shadow: none;
@@ -1010,7 +1010,7 @@ svg {
     transform: translate(0px, 120px);
   }
   .music_library {
-    width: 34rem;
+    width: 100vw;
     height: 100vh;
     max-height: 100rem;
     border-radius: 0;
